@@ -8,6 +8,9 @@ The system uses the following major frameworks/ libraries:
  <li>
   <a href="https://getbootstrap.com" rel="nofollow"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
  </li>
+ <li>
+  <a href="[https://getbootstrap.com" rel="nofollow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+ </li>
  
   <li>
    <a href="https://nodejs.org/en" rel="nofollow">
