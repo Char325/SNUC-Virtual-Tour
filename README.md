@@ -6,27 +6,17 @@ This project not only aims to provide a comprehensive virtual tour but also to c
 The system uses the following major frameworks/ libraries:
 <ul dir="auto">
  <li>
-  <a href="https://getbootstrap.com" rel="nofollow"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a href="[https://getbootstrap.com" rel="nofollow"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
  </li>
  <li>
   <a href="[https://getbootstrap.com" rel="nofollow"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
  </li>
+ <li>
+  <a href="https://getbootstrap.com" rel="nofollow"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+ </li>
  
-  <li>
-   <a href="https://nodejs.org/en" rel="nofollow">
-    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
-   </a>
-  </li>
- <li>
-  <a href="https://expressjs.com/" rel="nofollow">
-   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS">
-  </a>
- </li>
- <li>
-  <a href="https://www.mysql.com/" rel="nofollow">
-   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
- </li>
+ 
+  
  </ul>
  
 ## 1) Created a main webpage for the site
