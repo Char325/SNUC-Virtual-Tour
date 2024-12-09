@@ -6,8 +6,9 @@ This project not only aims to provide a comprehensive virtual tour but also to c
 The system uses the following major frameworks/ libraries:
 <ul dir="auto">
  <li>
-  <a href="https://getbootstrap.com" rel="nofollow"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.pn&width=50%"></a>
+  <a href="https://getbootstrap.com" rel="nofollow"><img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png&width=50%"></a>
  </li>
+ 
   <li>
    <a href="https://nodejs.org/en" rel="nofollow">
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
